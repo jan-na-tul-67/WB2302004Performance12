@@ -1,0 +1,55 @@
+ @import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@1,300&display=swap');
+
+ #C04 {
+     font-family: 'Roboto', sans-serif;
+     font-size: 30px;
+ }
+
+ body {
+
+     @font-famity: maryweather;
+
+ }
+.p1{
+    text-transform: uppercase;
+    color: forestgreen;
+    font-size: 20px;
+}
+
+ #a0 {
+     text-decoration-line: underline;
+     text-decoration-style: wavy;
+     text-decoration-color: chocolate;
+     color: indigo;
+     text-decoration-thickness: 2px;
+     text-shadow: 5px 5px 5px red;
+     font-size: 30px;
+ }
+
+ .a1 {
+
+     color: olivedrab;
+     text-decoration: inherit;
+     text-transform: capitalize;
+     text-shadow: 0 0 2px purple, 0 0 4px darkgreen, 0 0 6px teal;
+     font-size: 25px;
+ }
+
+ .C01 {
+     text-indent: 50px;
+     letter-spacing: 5px;
+     word-spacing: 5px;
+     line-height: 200%;
+     white-space: pre;
+ }
+
+ .C02 {
+     white-space: nowrap;
+     font-family: Borel, cursive;
+ }
+
+ .C03 {
+     white-space: pre-wrap;
+     font-family: monospace;
+     
+ }
